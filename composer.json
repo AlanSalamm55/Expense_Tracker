@@ -1,0 +1,17 @@
+{
+  "name": "asus/mvc-app",
+  "description": "This simple MVC framewrok",
+  "type": "project",
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "AlanSalamm55",
+      "email": "alansalamm55@gmail.com"
+    }
+  ],
+  "require": {}
+}
